@@ -13,6 +13,9 @@ strip: //div[@class='qp_embedded']
 strip: //div[@class='paywall-ld-ident']
 strip: //div[@class='asset-container']
 
+strip: //div[@class='-mx-4']
+strip: //div[@class='ml2']
+
 strip: //span[@class='-mx-4']
 strip: //span[@class='ml2']
 strip: //span[@class='uppercase']

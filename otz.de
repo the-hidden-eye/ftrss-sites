@@ -1,1 +1,27 @@
-thueringer-allgemeine.de.txt
+title: //div[@class='lg:text-title1']/h2
+body: //article
+prune: no
+
+
+strip: //div[@id='piano-banner-kampagne']
+strip: //div[@id='paywall-container']
+
+strip: //div[@id='piano-reco-widget']
+
+strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']
+strip: //div[@class='qp_embedded']
+strip: //div[@class='paywall-ld-ident']
+strip: //span[@class='ml2']
+strip: //span[@class='uppercase']
+
+strip: //svg
+
+
+strip: //nav
+strip: //template
+
+strip: //aside
+
+
+test_url: https://www.otz.de/kultur/article241686688/Kindermedien-Festival-Chefin-Gerne-mehr-innovative-Produktionen-fuer-die-Juengsten.html
+

@@ -1,0 +1,3 @@
+strip_id_or_class: h-ad-600+text
+strip_id_or_class: h-ad-280+text
+strip_id_or_class: lg:h-0

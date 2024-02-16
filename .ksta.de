@@ -2,7 +2,7 @@ title: //title
 body: //div[contains(@class, 'kk_is_start')]
 body: /div[@class='article-container']
 #//div[@class='qp_text']
-prune: yes
+prune: no
 
 strip: //div[@id='desktop_1']
 
@@ -10,3 +10,5 @@ strip_id_or_class: h-ad-600+text
 strip_id_or_class: h-ad-280+text
 strip_id_or_class: lg:h-0
 strip_id_or_class: kk_is_start
+
+test_url: https://www.ksta.de/ratgeber/familie/erich-kaestner-diese-aktuellen-autoren-stehen-in-seiner-tradition-739344

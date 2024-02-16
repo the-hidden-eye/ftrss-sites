@@ -23,5 +23,5 @@ strip: //template
 strip: //aside
 
 
-test_url: http://apolda.thueringer-allgemeine.de/web/apolda/startseite/detail/-/specific/Neue-Superknolle-beim-Heichelheimer-Kartoffelfest-praemiert-447764498
+test_url: https://www.thueringer-allgemeine.de/sport/sport-kyffhaeuserkreis/article241679682/Artern-geht-zuversichtlich-in-Erfurt-an-die-Sache.html
 

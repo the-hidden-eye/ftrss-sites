@@ -1,5 +1,6 @@
 title: //title
-body: //div[contains(@class, 'kk_is_start')]
+#body: //div[contains(@class, 'kk_is_start')]
+body: /div[@class='article-container']
 #//div[@class='qp_text']
 prune: yes
 

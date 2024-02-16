@@ -10,7 +10,8 @@ strip: //div[@id='piano-reco-widget']
 
 strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']
 strip: //div[@class='qp_embedded']
-strip: //div[@class='paywall-loader']
+strip: //div[@class='paywall-ld-ident']
+
 strip: //nav
 strip: //template
 

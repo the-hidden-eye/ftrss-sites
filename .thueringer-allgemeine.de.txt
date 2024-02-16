@@ -1,6 +1,5 @@
 title: //div[@class='lg:text-title1']/h2
-body: //main[contains(@class, 'article')]//div[@class='qp_text']
-
+body: //main[contains(@class, 'article')]
 prune: no
 
 strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']

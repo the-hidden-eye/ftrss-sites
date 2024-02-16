@@ -2,7 +2,6 @@ title: //div[@class='lg:text-title1']/h2
 body: //article
 prune: yes
 
-
 strip: //div[@id='piano-banner-kampagne']
 strip: //div[@id='paywall-container']
 
@@ -13,7 +12,6 @@ strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']
 strip: //div[@class='qp_embedded']
 strip: //div[@class='paywall-ld-ident']
 strip: //div[@class='asset-container']
-
 
 strip: //span[@class='-mx-4']
 strip: //span[@class='ml2']
@@ -29,5 +27,10 @@ strip: //nav
 strip: //template
 strip: //aside
 strip: //form
+find-string: <aside class="h-ad-600+text lg:h-0" data-slot-id="pos2_sm" data-breakpoint="sm" data-hide-ad-text="false" data-module-id="SparkAdSlotModule"></aside>
+replace-string: 
+find-string:  <aside class="h-ad-280+text lg:h-0" data-slot-id="pos1_sm" data-breakpoint="sm" data-hide-ad-text="false" data-module-id="SparkAdSlotModule"></aside>
+replace-string: 
+
 test_url: https://www.thueringer-allgemeine.de/sport/sport-kyffhaeuserkreis/article241679682/Artern-geht-zuversichtlich-in-Erfurt-an-die-Sache.html
 

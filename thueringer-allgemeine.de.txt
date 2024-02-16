@@ -1,6 +1,6 @@
 title: //div[@class='lg:text-title1']/h2
 body: //article
-prune: no
+prune: yes
 
 
 strip: //div[@id='piano-banner-kampagne']

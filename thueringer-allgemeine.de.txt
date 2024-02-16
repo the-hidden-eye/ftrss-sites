@@ -4,6 +4,7 @@ prune: no
 
 
 strip: //div[@id='piano-banner-kampagne']
+strip: //div[@id='paywall-container']
 
 strip: //div[@id='piano-reco-widget']
 

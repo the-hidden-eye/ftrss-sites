@@ -14,16 +14,17 @@ strip: //div[@class='paywall-ld-ident']
 strip: //span[@class='-mx-4']
 strip: //span[@class='ml2']
 strip: //span[@class='uppercase']
+strip: //a[@class='text-overline']
+strip: //p[@class='text-gray-ts']
+strip: //div[@class='gap-y-6']
+strip: //a[@class='text-overline']
+strip: //h3[@class='text-title5']
 
 strip: //svg
-
-
 strip: //nav
 strip: //template
-
 strip: //aside
 strip: //form
-
 
 test_url: https://www.otz.de/kultur/article241686688/Kindermedien-Festival-Chefin-Gerne-mehr-innovative-Produktionen-fuer-die-Juengsten.html
 

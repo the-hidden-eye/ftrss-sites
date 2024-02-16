@@ -27,6 +27,9 @@ strip: //nav
 strip: //template
 strip: //aside
 strip: //form
+strip_id_or_class: h-ad-600+text
+strip_id_or_class: h-ad-280+text
+
 find-string: <aside class="h-ad-600+text lg:h-0" data-slot-id="pos2_sm" data-breakpoint="sm" data-hide-ad-text="false" data-module-id="SparkAdSlotModule"></aside>
 replace-string: 
 find-string:  <aside class="h-ad-280+text lg:h-0" data-slot-id="pos1_sm" data-breakpoint="sm" data-hide-ad-text="false" data-module-id="SparkAdSlotModule"></aside>

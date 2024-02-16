@@ -1,0 +1,10 @@
+title: //div[@class='lg:text-title1']/h2
+body: //main[contains(@class, 'article')]//div[@class='qp_text']
+
+prune: no
+
+strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']
+strip: //div[@class='qp_embedded']
+
+test_url: http://apolda.thueringer-allgemeine.de/web/apolda/startseite/detail/-/specific/Neue-Superknolle-beim-Heichelheimer-Kartoffelfest-praemiert-447764498
+

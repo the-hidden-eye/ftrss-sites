@@ -39,5 +39,5 @@ strip_id_or_class: lg:h-0
 #find-string:  <aside class="h-ad-280+text lg:h-0" data-slot-id="pos1_sm" data-breakpoint="sm" data-hide-ad-text="false" data-module-id="SparkAdSlotModule"></aside>
 #replace-string: 
 
-test_url: https://www.otz.de/kultur/article241686688/Kindermedien-Festival-Chefin-Gerne-mehr-innovative-Produktionen-fuer-die-Juengsten.html
 
+test_url: https://www.otz.de/kultur/article241686688/Kindermedien-Festival-Chefin-Gerne-mehr-innovative-Produktionen-fuer-die-Juengsten.html

@@ -1,0 +1,11 @@
+title: //title
+body: //div[contains(@class, 'kk_is_start')]
+#//div[@class='qp_text']
+prune: yes
+
+strip: //div[@id='desktop_1']
+
+strip_id_or_class: h-ad-600+text
+strip_id_or_class: h-ad-280+text
+strip_id_or_class: lg:h-0
+strip_id_or_class: kk_is_start

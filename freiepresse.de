@@ -1,7 +1,12 @@
+body: //article
+
 strip_id_or_class: h-ad-600+text
 strip_id_or_class: h-ad-280+text
 strip_id_or_class: lg:h-0
-
+strip_id_or_class: facebook_click_link
+strip_id_or_class: TextToSpeech-Row
+#strip: //script 
+# ( they have jsonld but javascript as well the artikel-content has the article without image)
 strip: //div[@id='piano-banner-kampagne']
 strip: //div[@id='paywall-container']
 
@@ -12,3 +17,7 @@ strip: //div[@id='_DetailPortlet_WAR_queport_zgtperson']
 strip: //div[@class='qp_embedded']
 strip: //div[@class='paywall-ld-ident']
 strip: //div[@class='asset-container']
+
+
+strip: //div[@class='recommendationWrapper']
+strip: //div[@class='iconWrapper']

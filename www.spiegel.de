@@ -1,6 +1,13 @@
 #title: //div[@class='lg:text-title1']/h2
 body: //article
 prune: yes
+strip: //iframe
+strip: //script
+strip: //footer
+
+strip_id_or_class: iqadtile5
+strip_id_or_class: iqdcontainer
+
 
 strip: //div[@id='piano-banner-kampagne']
 strip: //div[@id='paywall-container']

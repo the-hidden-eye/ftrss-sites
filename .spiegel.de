@@ -4,6 +4,7 @@ prune: yes
 strip: //iframe
 strip: //script
 strip: //footer
+strip: //a
 
 strip_id_or_class: iqadtile5
 strip_id_or_class: iqdcontainer
@@ -22,6 +23,11 @@ strip: //div[@class='asset-container']
 
 strip: //div[@class='-mx-4']
 strip: //div[@class='ml2']
+
+strip: //h3[@class='font-brandUI']
+
+strip: //span[@class='sr-only']
+strip: //span[@class='relative bottom-px']
 
 strip: //span[@class='-mx-4']
 strip: //span[@class='ml2']

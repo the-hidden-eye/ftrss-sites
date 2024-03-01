@@ -34,7 +34,7 @@ strip: //span[@class='ml2']
 strip: //span[@class='uppercase']
 strip: //a[@class='text-overline']
 strip: //p[@class='text-gray-ts']
-strip: //div[@class='gap-y-6']
+strip: //div[@class='Adstyled_*']
 strip: //a[@class='text-overline']
 strip: //h3[@class='text-title5']
 

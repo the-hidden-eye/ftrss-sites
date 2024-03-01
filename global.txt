@@ -1,6 +1,7 @@
 strip_id_or_class: h-ad-600+text
 strip_id_or_class: h-ad-280+text
 strip_id_or_class: lg:h-0
+strip: //div[@class='hideCompletely']
 
 strip: //div[@id='piano-banner-kampagne']
 strip: //div[@id='paywall-container']
